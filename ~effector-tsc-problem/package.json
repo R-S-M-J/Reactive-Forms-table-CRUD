@@ -1,0 +1,10 @@
+{
+  "name": "~effector-tsc-problem",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "effector": "^22.8.6",
+    "typescript": "^5.1.6"
+  }
+}
